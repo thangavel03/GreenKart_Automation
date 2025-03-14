@@ -48,7 +48,7 @@ pipeline {
 
                 Logs: ${env.BUILD_URL}
                 """,
-                to: 'yourname@example.com'
+                to: 'thangavelra2003@gmail.com'
             )
         }
     }
